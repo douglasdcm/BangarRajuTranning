@@ -1,0 +1,7 @@
+C:\Users\Douglas\source\repos\BagarRajuTranning\BagarRajuTranning\obj\Debug\BagarRajuTranning.csprojAssemblyReference.cache
+C:\Users\Douglas\source\repos\BagarRajuTranning\BagarRajuTranning\obj\Debug\BagarRajuTranning.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\source\repos\BagarRajuTranning\BagarRajuTranning\bin\Debug\BagarRajuTranning.exe.config
+C:\Users\Douglas\source\repos\BagarRajuTranning\BagarRajuTranning\bin\Debug\BagarRajuTranning.exe
+C:\Users\Douglas\source\repos\BagarRajuTranning\BagarRajuTranning\bin\Debug\BagarRajuTranning.pdb
+C:\Users\Douglas\source\repos\BagarRajuTranning\BagarRajuTranning\obj\Debug\BagarRajuTranning.exe
+C:\Users\Douglas\source\repos\BagarRajuTranning\BagarRajuTranning\obj\Debug\BagarRajuTranning.pdb
