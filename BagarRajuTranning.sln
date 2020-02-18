@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BagarRajuTranning", "BagarRajuTranning\BagarRajuTranning.csproj", "{AB8D0856-3167-4766-9A95-7D76311493AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessDemo2", "AccessDemo2\AccessDemo2.csproj", "{EECB548C-2BFD-4E67-8088-C6BC26828182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB8D0856-3167-4766-9A95-7D76311493AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8D0856-3167-4766-9A95-7D76311493AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8D0856-3167-4766-9A95-7D76311493AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8D0856-3167-4766-9A95-7D76311493AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EECB548C-2BFD-4E67-8088-C6BC26828182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECB548C-2BFD-4E67-8088-C6BC26828182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECB548C-2BFD-4E67-8088-C6BC26828182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECB548C-2BFD-4E67-8088-C6BC26828182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E241CF10-00DE-4F37-A902-9D17A4B108DD}
+	EndGlobalSection
+EndGlobal
