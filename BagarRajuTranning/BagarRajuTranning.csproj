@@ -47,6 +47,7 @@
     <Compile Include="CopyConDemo.cs" />
     <Compile Include="First.cs" />
     <Compile Include="ParamiterizedConDemo.cs" />
+    <Compile Include="Parent.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StaticConDemo.cs" />
