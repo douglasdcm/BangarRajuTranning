@@ -49,7 +49,10 @@
     <Compile Include="CopyConDemo.cs" />
     <Compile Include="EnumClass.cs" />
     <Compile Include="First.cs" />
+    <Compile Include="GenericDelegates.cs" />
+    <Compile Include="AnonymounsMethods.cs" />
     <Compile Include="IndexerProject.cs" />
+    <Compile Include="LambdaExpressions.cs" />
     <Compile Include="Matrix.cs" />
     <Compile Include="ParamiterizedConDemo.cs" />
     <Compile Include="Program.cs" />

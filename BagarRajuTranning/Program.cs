@@ -135,25 +135,43 @@ namespace BagarRajuTranning
             //strName = sd.Invoke("Raju");
             //Console.WriteLine(strName);
 
-            //*multicast delegate
-            //holds multiple method references
-            Rectangle rect = new Rectangle();
-            rect.GetArea(12.34, 56.78);
-            rect.GetPerimeter(12.34, 56.78);
+            ////*multicast delegate
+            ////holds multiple method references
+            //Rectangle rect = new Rectangle();
+            //rect.GetArea(12.34, 56.78);
+            //rect.GetPerimeter(12.34, 56.78);
 
-            RectDelegate obj = new RectDelegate(rect.GetArea);
-            obj.Invoke(12.34, 56.78);
+            //RectDelegate obj = new RectDelegate(rect.GetArea);
+            //obj.Invoke(12.34, 56.78);
 
-            Console.WriteLine("Multcast");
-            RectDelegate obj2 = rect.GetArea; //call the delegate by binding         
-            obj2 += rect.GetPerimeter; //adding the second method
-            obj2.Invoke(12.34, 56.78); //calling both methods
+            //Console.WriteLine("Multcast");
+            //RectDelegate obj2 = rect.GetArea; //call the delegate by binding         
+            //obj2 += rect.GetPerimeter; //adding the second method
+            //obj2.Invoke(12.34, 56.78); //calling both methods
 
-            Console.WriteLine("My test");
-            RectDelegate deleg = null;
-            deleg += rect.GetArea; //bind the method to the delegate
-            deleg += rect.GetPerimeter;
-            deleg.Invoke(12.34, 56.78); ; //call all delegates
+            //Console.WriteLine("My test");
+            //RectDelegate deleg = null;
+            //deleg += rect.GetArea; //bind the method to the delegate
+            //deleg += rect.GetPerimeter;
+            //deleg.Invoke(12.34, 56.78); ; //call all delegates
+
+            ////*anonymous methods
+            //AnonymousMethods am = new AnonymousMethods();
+            //am.AnonymousMethodArrowFunc();
+            //am.AnonymousMethod();
+
+            ////*lambda expressions
+            //LambdaExpressions le = new LambdaExpressions();
+            //le.Greetings("Roy");
+
+            //*generic delegates
+            GenericDelegates gd = new GenericDelegates();
+            //gd.CallDelegates();
+
+            //func delegate is used when the method returns a values
+            //action delegate is used when the methos is void
+            //predicate delegate used when return type is boolean
+            gd.TestGenericDelegate();
 
             Console.ReadLine();
         }
