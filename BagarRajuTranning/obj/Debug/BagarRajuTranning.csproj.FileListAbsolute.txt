@@ -5,10 +5,10 @@ C:\Users\Douglas\source\repos\BagarRajuTranning\BagarRajuTranning\bin\Debug\Baga
 C:\Users\Douglas\source\repos\BagarRajuTranning\BagarRajuTranning\bin\Debug\BagarRajuTranning.pdb
 C:\Users\Douglas\source\repos\BagarRajuTranning\BagarRajuTranning\obj\Debug\BagarRajuTranning.exe
 C:\Users\Douglas\source\repos\BagarRajuTranning\BagarRajuTranning\obj\Debug\BagarRajuTranning.pdb
-C:\dmorais\source\repos\trainnig\BangarRajuTranning\BagarRajuTranning\bin\Debug\BagarRajuTranning.exe.config
-C:\dmorais\source\repos\trainnig\BangarRajuTranning\BagarRajuTranning\bin\Debug\BagarRajuTranning.exe
-C:\dmorais\source\repos\trainnig\BangarRajuTranning\BagarRajuTranning\bin\Debug\BagarRajuTranning.pdb
-C:\dmorais\source\repos\trainnig\BangarRajuTranning\BagarRajuTranning\obj\Debug\BagarRajuTranning.csprojAssemblyReference.cache
-C:\dmorais\source\repos\trainnig\BangarRajuTranning\BagarRajuTranning\obj\Debug\BagarRajuTranning.csproj.CoreCompileInputs.cache
-C:\dmorais\source\repos\trainnig\BangarRajuTranning\BagarRajuTranning\obj\Debug\BagarRajuTranning.exe
-C:\dmorais\source\repos\trainnig\BangarRajuTranning\BagarRajuTranning\obj\Debug\BagarRajuTranning.pdb
+C:\Users\Douglas\trainning\CSharp\BangarRajuTranning\BagarRajuTranning\bin\Debug\BagarRajuTranning.exe.config
+C:\Users\Douglas\trainning\CSharp\BangarRajuTranning\BagarRajuTranning\bin\Debug\BagarRajuTranning.exe
+C:\Users\Douglas\trainning\CSharp\BangarRajuTranning\BagarRajuTranning\bin\Debug\BagarRajuTranning.pdb
+C:\Users\Douglas\trainning\CSharp\BangarRajuTranning\BagarRajuTranning\obj\Debug\BagarRajuTranning.csprojAssemblyReference.cache
+C:\Users\Douglas\trainning\CSharp\BangarRajuTranning\BagarRajuTranning\obj\Debug\BagarRajuTranning.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\trainning\CSharp\BangarRajuTranning\BagarRajuTranning\obj\Debug\BagarRajuTranning.exe
+C:\Users\Douglas\trainning\CSharp\BangarRajuTranning\BagarRajuTranning\obj\Debug\BagarRajuTranning.pdb
