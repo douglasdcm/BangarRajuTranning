@@ -165,13 +165,13 @@ namespace BagarRajuTranning
             //le.Greetings("Roy");
 
             //*generic delegates
-            GenericDelegates gd = new GenericDelegates();
+            //GenericDelegates gd = new GenericDelegates();
             //gd.CallDelegates();
 
             //func delegate is used when the method returns a values
             //action delegate is used when the methos is void
             //predicate delegate used when return type is boolean
-            gd.TestGenericDelegate();
+            //gd.TestGenericDelegate();
             ////types of variables
             //const int c = 2; //must be initialided and never changes. it is the same for all instances
             //Console.WriteLine(c);
@@ -179,17 +179,32 @@ namespace BagarRajuTranning
             //Console.WriteLine(p.r);
 
             //method hiding
-            //reimplementing a parent class method under the child class with the same signature
-            ChildClass cc = new ChildClass();
-            cc.Test1();
-            cc.Test2();
-            cc.ParenteTest1(); //point to parent method
-            cc.ParenteTest2();
+            ////reimplementing a parent class method under the child class with the same signature
+            //ChildClass cc = new ChildClass();
+            //cc.Test1();
+            //cc.Test2();
+            //cc.ParenteTest1(); //point to parent method
+            //cc.ParenteTest2();
 
-            ParentClass pc = cc; //point a parent class to a child class
-            pc.Test1(); //can call overrided classes in the child class
-                        //this is an approach to call a child method from the parent class
-            pc.Test2(); //can call only the parent methods
+            //ParentClass pc = cc; //point a parent class to a child class
+            //pc.Test1(); //can call overrided classes in the child class
+            //            //this is an approach to call a child method from the parent class
+            //pc.Test2(); //can call only the parent methods
+
+
+            ////*extension classes
+            ////extension methods are defined as static, but when binded to a class it returns as non-static
+            //ExtensionClassOrig eco = new ExtensionClassOrig();
+            //eco.Deriv();
+            //eco.Orig1(); //calls the Original method, not the extension even they have the same name
+            //eco.Deriv2(1);//extension method with parameter
+
+            //Int32 i = new Int32();
+            //i.Factorial();//calls the extension method Factorial by the Int32
+
+            //String str = "new string";
+            //str.ToProper();
+
 
 
             Console.ReadLine();

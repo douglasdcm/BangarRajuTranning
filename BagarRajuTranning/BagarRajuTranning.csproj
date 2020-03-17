@@ -48,6 +48,8 @@
     <Compile Include="ConstructorDemo.cs" />
     <Compile Include="CopyConDemo.cs" />
     <Compile Include="EnumClass.cs" />
+    <Compile Include="ExtensionClassDeriv.cs" />
+    <Compile Include="ExtensionClassOrig.cs" />
     <Compile Include="First.cs" />
     <Compile Include="GenericDelegates.cs" />
     <Compile Include="AnonymounsMethods.cs" />
